@@ -1,0 +1,11 @@
+
+<html>
+   <head>
+      <title>Biostimulants: A Sustainability Initiative</title>
+      <link href = "style.css" type = "text/css" rel = "stylesheet">
+   </head>
+   <body>
+	<a href="2-24.pdf">Download PDF</a>
+	<embed src="2-24.pdf" width="100%" height="100%" />
+   </body>
+</html>
