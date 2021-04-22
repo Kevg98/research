@@ -1,9 +1,0 @@
-<html>
-   <head>
-      <title>Biostimulant Research Overview</title>
-      <link href = "style.css" type = "text/css" rel = "stylesheet">
-   </head>
-   <body>
-	<a href="powerpoint.pptx">Download Powerpoint</a>
-   </body>
-</html>
